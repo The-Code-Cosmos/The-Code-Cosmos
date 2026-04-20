@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**The-Code-Cosmos/The-Code-Cosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the Code Cosmos GitHub profile! Here we make respositories about our services, websites and apps! 
+Code Cosmos is a service, and our mission is to make everything accessible, As in everything, im serious. Entertainment, Development, Education, Chatting, Art and more.
 
-Here are some ideas to get you started:
+Are official website is at https://codecosmos.net and are YouTube channel is at https://youtube.com/@codecosmos-YT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our services are free, and for under 13s, adults can help them sign up and it includes parental controls.
+Happy exploring the Cosmos! 🌠
+
+Any users that see a 404 or connection refused (With strong internet, of course) page on links means we did not code it yet! 😅
+
+# LICENSE: You are allowed to fork code but not permitted to use that code for monetizational needs or copying the entire code to make a replica of a Code Cosmos service without permssion.
+# Full policy at https://privacy.codecosmos.net
+# You are not allowed to post mean, scary or innapropiate things on your behalf, either in our GitHub, YouTube or our services.
+
