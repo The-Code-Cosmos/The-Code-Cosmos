@@ -33,4 +33,6 @@ Code Cosmos is a service dedicated to making everything accessible—and we mean
 ![Visitor Count](https://komarev.com/ghpvc/?username=The-Code-Cosmos&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 ![Total Stars](https://img.shields.io/github/stars/The-Code-Cosmos?style=flat-square&label=TOTAL+STARS&color=gold)
 
+![Code Cosmos Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Code-Cosmos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 Happy exploring the Cosmos! 🌠
