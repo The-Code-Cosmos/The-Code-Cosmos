@@ -26,7 +26,6 @@ We build our services using a modern, scalable full-stack architecture:
 | Resource | Link |
 | :--- | :--- |
 | *🌐 Official Website* | [codecosmos.net](https://codecosmos.net) |
-| *📺 YouTube Channel* | [@BowieAndCodeCosmos](https://youtube.com/@BowieAndCodeCosmos). |
 | *📜 Privacy & Terms* | [privacy.codecosmos.net](https://privacy.codecosmos.net) |
 
 > *Note for explorers:* Our services are free (with optional payments). For users under 13, we encourage adults to help with sign-up to use our parental controls. 🛡️
